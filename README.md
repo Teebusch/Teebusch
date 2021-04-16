@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+📦 Check out my Rstats packages [{noah}](https://teebusch.github.io/noah/) and [{mifa}](https://teebusch.github.io/mifa/)
+
+🔭 I’m working on a [90min hands-on Intro to R](https://hackmd.io/@teebusch/10-cool-things-about-R)
+
+🌱 I’m currently learning Typescript and Svelte by building an online [card game](https://github.com/Teebusch/nine-circles)
 
 <!--
 **Teebusch/Teebusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
