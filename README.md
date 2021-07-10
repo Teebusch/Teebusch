@@ -16,6 +16,8 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 🌱 I’m learning Typescript and Svelte by building an online [card game](https://github.com/Teebusch/nine-circles)
 
+👷‍♂️ I'm also a maintainer of the [Datacarpentries' R for Ecology lesson](https://github.com/datacarpentry/R-ecology-lesson/)
+
 <!--
 **Teebusch/Teebusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
