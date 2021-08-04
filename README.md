@@ -7,7 +7,7 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 📦 Check out my Rstats packages [{noah}](https://teebusch.github.io/noah/) and [{mifa}](https://teebusch.github.io/mifa/)
 
-🔭 I’m working on a [hands-on Intro to R](https://github.com/Teebusch/R-introduction)
+🔭 I’m working on a [hands-on Intro to R](https://github.com/Teebusch/r-intro)
 
 🌱 I’m learning Typescript and Svelte by building an online [card game](https://github.com/Teebusch/nine-circles)
 
