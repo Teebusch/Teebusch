@@ -15,6 +15,8 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 📜 I have a blog at [tobiasbusch.xyz](https://tobiasbusch.xyz)
 
+🧑‍🏫 You can find an [archive of my talks, lectures, and research presentations here](https://github.com/Teebusch/presentations)
+
 ### How to reach me?
 
 * 🐦 [@tobilottii](http://twitter.com/tobilottii/)  
