@@ -17,7 +17,7 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 🧑‍🏫 You can find an [archive of my talks, lectures, and research presentations here](https://github.com/Teebusch/presentations)
 
-📈 Here are [some data visualisations I have made with Tableau](https://public.tableau.com/app/profile/tiobias.busch)
+📶 Here are [some data visualisations I have made with Tableau](https://public.tableau.com/app/profile/tiobias.busch)
 
 <div itemscope itemtype="https://schema.org/Person">&nbsp;<a itemprop="sameAs" content="https://orcid.org/0000-0002-8390-7892" href="https://orcid.org/0000-0002-8390-7892" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.5em;padding-left:7em;" alt="ORCID iD icon">&nbsp;&nbsp;A list of my research publications is on ORCID</a></div>
 
@@ -25,6 +25,8 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 * 🐦 [@tobilottii](http://twitter.com/tobilottii/)  
 * 📷 [@tobilotti](https://www.instagram.com/tobilotti/)
+* 👔 [linkedin.com/in/tobias-busch](linkedin.com/in/tobias-busch)
+* 📨 teebusch 🐒 the world's biggest .com email provider
 
 <!--
 **Teebusch/Teebusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
