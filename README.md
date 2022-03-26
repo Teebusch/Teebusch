@@ -11,6 +11,8 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 🌱 I’m learning Typescript and Svelte by building an online [card game](https://github.com/Teebusch/nine-circles)
 
+🎲 I'm [learning three.js](https://github.com/Teebusch/threejs-journey) by following Bruno Simon's course.
+
 👷‍♂️ I'm a maintainer of the Datacarpentry lesson material for [Data Analysis and Visualization in R for Ecologists](https://github.com/datacarpentry/R-ecology-lesson/)
 
 📜 I have a blog at [tobiasbusch.xyz](https://tobiasbusch.xyz)
