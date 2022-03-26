@@ -15,7 +15,7 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 📜 I have a blog at [tobiasbusch.xyz](https://tobiasbusch.xyz)
 
-🧑‍🏫 You can find an [archive of my talks, lectures, and research presentations here](https://github.com/Teebusch/presentations)
+🧑‍🏫 You can find an [archive of my talks, lectures, and research presentations here](https://github.com/Teebusch/presentations) (incl. slides)
 
 📶 Here are [some data visualisations I have made with Tableau](https://public.tableau.com/app/profile/tiobias.busch)
 
