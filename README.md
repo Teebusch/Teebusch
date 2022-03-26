@@ -7,21 +7,21 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 📦 Check out my Rstats packages [{noah}](https://teebusch.github.io/noah/) and [{mifa}](https://teebusch.github.io/mifa/)
 
-📘 I’m working on a [hands-on introduction to R](https://github.com/Teebusch/r-intro)
-
-🌱 I’m learning Typescript and Svelte by building an online [card game](https://github.com/Teebusch/nine-circles)
-
-🎲 I'm [learning three.js](https://github.com/Teebusch/threejs-journey) by following Bruno Simon's course.
-
 👷‍♂️ I'm a maintainer of the Datacarpentry lesson material for [Data Analysis and Visualization in R for Ecologists](https://github.com/datacarpentry/R-ecology-lesson/)
+
+📘 I’m working on a [hands-on introduction to R](https://github.com/Teebusch/r-intro)
 
 📜 I have a blog at [tobiasbusch.xyz](https://tobiasbusch.xyz)
 
 🧑‍🏫 You can find an [archive of my talks, lectures, and research presentations here](https://github.com/Teebusch/presentations) (incl. slides)
 
+<p><div itemscope itemtype="https://schema.org/Person">&nbsp;<a itemprop="sameAs" content="https://orcid.org/0000-0002-8390-7892" href="https://orcid.org/0000-0002-8390-7892" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.5em;padding-left:7em;" alt="ORCID iD icon">&nbsp;&nbsp;A list of my research publications is on ORCID</a></div></p>
+
 📶 Here are [some data visualisations I have made with Tableau](https://public.tableau.com/app/profile/tiobias.busch)
 
-<div itemscope itemtype="https://schema.org/Person">&nbsp;<a itemprop="sameAs" content="https://orcid.org/0000-0002-8390-7892" href="https://orcid.org/0000-0002-8390-7892" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.5em;padding-left:7em;" alt="ORCID iD icon">&nbsp;&nbsp;A list of my research publications is on ORCID</a></div>
+🌱 I’m learning Typescript and Svelte by building an online [card game](https://github.com/Teebusch/nine-circles)
+
+🎲 I'm [learning three.js](https://github.com/Teebusch/threejs-journey) by following Bruno Simon's course.
 
 ### How to reach me?
 
