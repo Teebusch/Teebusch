@@ -19,7 +19,7 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 📜 You can also find my research publications on [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
 
-🧮 Here's a [data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.xyz/a-walk-in-the-park).
+🧮 Here's a fun [data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.xyz/a-walk-in-the-park).
 
 📶 Here are [some data visualisations I have made with Tableau](https://public.tableau.com/app/profile/tiobias.busch)
 
