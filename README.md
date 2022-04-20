@@ -11,7 +11,7 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 📘 I’m working on a [hands-on introduction to R](https://github.com/Teebusch/r-intro)
 
-📜 I have a blog at [tobiasbusch.xyz](https://tobiasbusch.xyz)
+📜 I have a blog about R and data visualisation at [tobiasbusch.xyz](https://tobiasbusch.xyz)
 
 🧮 Here's a fun [data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.xyz/a-walk-in-the-park).
 
