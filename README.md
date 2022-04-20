@@ -13,12 +13,6 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 📜 I have a blog at [tobiasbusch.xyz](https://tobiasbusch.xyz)
 
-🧑‍🏫 You can find an [archive of my talks, lectures, and research presentations here](https://github.com/Teebusch/presentations) (incl. slides for some of them)
-
-<p><div itemscope itemtype="https://schema.org/Person">&nbsp;<a itemprop="sameAs" content="https://orcid.org/0000-0002-8390-7892" href="https://orcid.org/0000-0002-8390-7892" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.5em;padding-left:7em;" alt="ORCID iD icon">&nbsp;&nbsp;A list of my research publications is on ORCID</a></div></p>
-
-📜 You can also find my research publications on [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
-
 🧮 Here's a fun [data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.xyz/a-walk-in-the-park).
 
 📶 Here are [some data visualisations I have made with Tableau](https://public.tableau.com/app/profile/tiobias.busch)
@@ -26,6 +20,14 @@ I'm based in Oslo, Norway and Köln, Germany.
 🌱 I’m learning Typescript and Svelte by building an online [card game](https://github.com/Teebusch/nine-circles)
 
 🌱 I'm [learning three.js](https://github.com/Teebusch/threejs-journey) by following Bruno Simon's course.
+
+### Presentations and Publications
+
+🧑‍🏫 You can find an [archive of my talks, lectures, and research presentations here](https://github.com/Teebusch/presentations) (incl. slides for some of them)
+
+<p><div itemscope itemtype="https://schema.org/Person">&nbsp;<a itemprop="sameAs" content="https://orcid.org/0000-0002-8390-7892" href="https://orcid.org/0000-0002-8390-7892" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.5em;padding-left:7em;" alt="ORCID iD icon">&nbsp;&nbsp;A list of my research publications is on ORCID</a></div></p>
+
+📜 You can also find my research publications on [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
 
 ### How to reach me?
 
