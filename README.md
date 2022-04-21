@@ -29,6 +29,8 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 📜 You can also find my research publications on [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
 
+🔬 I have peer-reviewed manuscripts for a bunch of journals. You can find an incomplete list [at Publons](https://publons.com/researcher/4522734/tobias-busch) 
+
 ### How to reach me?
 
 * 🐦 [@tobilottii](http://twitter.com/tobilottii/)  
