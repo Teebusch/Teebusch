@@ -15,6 +15,8 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 🧮 Here's a fun [data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.xyz/a-walk-in-the-park).
 
+🧮 I have also been working through the book "D3 for the impatient" on [ObservableHQ](https://observablehq.com/@teebusch/d3-for-the-impatient)
+
 📶 Here are [some data visualisations I have made with Tableau](https://public.tableau.com/app/profile/tiobias.busch)
 
 🌱 I’m learning Typescript and Svelte by building an online [card game](https://github.com/Teebusch/nine-circles)
