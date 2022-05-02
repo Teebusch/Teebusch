@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-I'm a researcher with a PhD in Biomedical science working on hearing and cochlear implants.  
-I'm based in Oslo, Norway and Köln, Germany. 
-
 ### Projects
 
 📦 Check out my R packages [{noah}](https://teebusch.github.io/noah/) and [{mifa}](https://teebusch.github.io/mifa/). I have also contributed a little bit to [{textgRid}](https://github.com/patrickreidy/textgRid) and [{rlena}](https://github.com/HomeBankCode/rlena).
