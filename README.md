@@ -25,28 +25,14 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 ### Presentations and Publications
 
-🧑‍🏫 You can find an [archive of my talks, lectures, and research presentations here](https://github.com/Teebusch/presentations) (incl. slides for some of them)
+🧑‍🏫 I keep an archive of my talks, lectures, and research presentations [in this repository (incl. some slides and material)](https://github.com/Teebusch/presentations)
 
-📜 You can find all about my research publications in [this repository](https://github.com/Teebusch/publications/) or on [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
+📜 You can find my research publications [in this repository](https://github.com/Teebusch/publications/) or on [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
 
 ### How to reach me?
 
-* 🐦 [@tobilottii](http://twitter.com/tobilottii/)  
-* 📷 [@tobilotti](https://www.instagram.com/tobilotti/)
-* 👔 [linkedin.com/in/tobias-busch](linkedin.com/in/tobias-busch)
+* 🐦 [Twitter @tobilottii](http://twitter.com/tobilottii/)  
+* 📷 [Instagram @tobilotti](https://www.instagram.com/tobilotti/)
+* 👔 [LinkedIn](linkedin.com/in/tobias-busch)
+* 📜 [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
 * 📨 teebusch 🐒 the world's biggest .com email provider
-
-<!--
-**Teebusch/Teebusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
