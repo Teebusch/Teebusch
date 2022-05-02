@@ -27,11 +27,7 @@ I'm based in Oslo, Norway and Köln, Germany.
 
 🧑‍🏫 You can find an [archive of my talks, lectures, and research presentations here](https://github.com/Teebusch/presentations) (incl. slides for some of them)
 
-<p><div itemscope itemtype="https://schema.org/Person">&nbsp;<a itemprop="sameAs" content="https://orcid.org/0000-0002-8390-7892" href="https://orcid.org/0000-0002-8390-7892" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.5em;padding-left:7em;" alt="ORCID iD icon">&nbsp;&nbsp;A list of my research publications is on ORCID</a></div></p>
-
-📜 You can also find my research publications on [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
-
-🔬 I have peer-reviewed manuscripts for a bunch of journals. You can find an incomplete list [at Publons](https://publons.com/researcher/4522734/tobias-busch) 
+📜 You can find all about my research publications in [this repository](https://github.com/Teebusch/publications/) or on [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
 
 ### How to reach me?
 
