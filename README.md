@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-### Projects
+Here's some stuff I care about:
+
+### R Programming
 
 + 📦 Check out my R packages [{noah}](https://teebusch.github.io/noah/) and [{mifa}](https://teebusch.github.io/mifa/). I have also contributed a little bit to [{textgRid}](https://github.com/patrickreidy/textgRid) and [{rlena}](https://github.com/HomeBankCode/rlena).
 
@@ -10,11 +12,15 @@
 
 + 📜 I have a blog about R and data visualisation at [tobiasbusch.xyz](https://tobiasbusch.xyz)
 
-+ 🧮 Here's a fun [data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.xyz/a-walk-in-the-park).
+### Data Visualizations
 
-+ 🧮 I have also been working through the book "D3 for the impatient" on [ObservableHQ](https://observablehq.com/@teebusch/d3-for-the-impatient)
++ 🧮 [Here's a data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.xyz/a-walk-in-the-park).
 
 + 📶 Here are [some data visualisations I have made with Tableau](https://public.tableau.com/app/profile/tiobias.busch)
+
+### Learning new Technology
+
++ 🧮 I'm working through the book *D3 for the impatient* on [ObservableHQ](https://observablehq.com/@teebusch/d3-for-the-impatient)
 
 + 🌱 I’m learning Typescript and Svelte by building an online [card game](https://github.com/Teebusch/nine-circles)
 
@@ -22,11 +28,11 @@
 
 ### Presentations and Publications
 
-+ 🧑‍🏫 I keep an archive of my talks, lectures, and research presentations [in this repository (incl. some slides and material)](https://github.com/Teebusch/presentations)
++ 🧑‍🏫 [Talks, workshops, presentations, lectures (archive, slides & material)](https://github.com/Teebusch/presentations)
 
-+ 📜 You can find my research publications [in this repository](https://github.com/Teebusch/publications/) or on [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
++ 📜 [Research Publications](https://github.com/Teebusch/publications/)
 
-### How to reach me?
+### Contact me!
 
 * 🐦 [Twitter @tobilottii](http://twitter.com/tobilottii/)  
 * 📷 [Instagram @tobilotti](https://www.instagram.com/tobilotti/)
