@@ -12,7 +12,7 @@ Here's some stuff I care about:
 
 + 📜 I have a blog about R and data visualisation at [tobiasbusch.xyz](https://tobiasbusch.xyz)
 
-### Data Visualizations
+### Data Visualization
 
 + 🧮 [Here's a data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.xyz/a-walk-in-the-park).
 
