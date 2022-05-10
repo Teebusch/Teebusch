@@ -10,8 +10,6 @@ Here's some stuff I care about:
 
 + 📘 I’m working on a [hands-on introduction to R](https://github.com/Teebusch/r-intro)
 
-+ 📜 I have a blog about R and data visualisation at [tobiasbusch.xyz](https://tobiasbusch.xyz)
-
 ### Data Visualization
 
 + 🧮 [Here's a data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.xyz/a-walk-in-the-park).
@@ -26,7 +24,7 @@ Here's some stuff I care about:
 
 + 🌱 I'm [learning three.js](https://github.com/Teebusch/threejs-journey) by following Bruno Simon's course.
 
-### Presentations and Publications
+### Presentations & Publications
 
 + 🧑‍🏫 [Talks, workshops, presentations, lectures (archive, slides & material)](https://github.com/Teebusch/presentations)
 
@@ -39,3 +37,4 @@ Here's some stuff I care about:
 * 👔 [LinkedIn](linkedin.com/in/tobias-busch)
 * 📜 [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
 * 📨 teebusch 🐒 the world's biggest .com email provider
+* 📜 I have a blog about R and data visualisation at [tobiasbusch.xyz](https://tobiasbusch.xyz)
