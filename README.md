@@ -1,28 +1,27 @@
 ## Hi there 👋
 
-### Some things I made / did (in no particular order)
+I'm a cognitive scientist turned developer with a passion for UI/UX, research, data analysis, and data visualisation.
 
-+ [Talks, workshops, presentations, lectures (archive, slides & material)](https://github.com/Teebusch/presentations)
+### Things I made and did
 
-+ [Research Publications](https://github.com/Teebusch/publications/)
++ [Talks, workshops, presentations, lectures](https://github.com/Teebusch/presentations) 
 
-+ Check out my R packages [{noah}](https://teebusch.github.io/noah/) and [{mifa}](https://teebusch.github.io/mifa/).
++ [Research Publications](https://github.com/Teebusch/publications/) (or check out [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4))
 
-+ I have also contributed a little bit to [{textgRid}](https://github.com/patrickreidy/textgRid) and [{rlena}](https://github.com/HomeBankCode/rlena).
++ My R packages [noah](https://teebusch.github.io/noah/) and [mifa](https://teebusch.github.io/mifa/) (I have also contributed a little bit to [textgRid](https://github.com/patrickreidy/textgRid) and [rlena](https://github.com/HomeBankCode/rlena))
 
-+ I blog about R and data visualisation at [tobiasbusch.xyz](https://tobiasbusch.xyz)
++ I have written a few things about R and data visualisation at [tobiasbusch.xyz](https://tobiasbusch.xyz)
 
 + [Here's a data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.xyz/a-walk-in-the-park).
 
-+ Here are [some data visualisations I have made with Tableau](https://public.tableau.com/app/profile/tiobias.busch)
++ [Some data visualisations I have made with Tableau](https://public.tableau.com/app/profile/tiobias.busch)
 
-+ I'm working through the book *D3 for the impatient* on [ObservableHQ](https://observablehq.com/@teebusch/d3-for-the-impatient)
++ Some D3 I wrote while working through the book *D3 for the impatient* on [ObservableHQ](https://observablehq.com/@teebusch/d3-for-the-impatient)
 
-+ I'm [learning three.js](https://github.com/Teebusch/threejs-journey) by following Bruno Simon's course.
+Feel free to have a look around my GitHub repos to see other stuff I have tinkered with and projects I was involved with.
 
 ### Contact
 
+* 📨 teebusch 🐒 the world's biggest .com email provider
 * 📷 [Instagram @tobilotti](https://www.instagram.com/tobilotti/)
 * 👔 [LinkedIn](linkedin.com/in/tobias-busch)
-* 📜 [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
-* 📨 teebusch 🐒 the world's biggest .com email provider
