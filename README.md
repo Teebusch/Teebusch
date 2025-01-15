@@ -19,9 +19,3 @@ I'm a cognitive scientist turned developer with a passion for UI/UX, research, d
 + Some D3 I wrote while working through the book *D3 for the impatient* on [ObservableHQ](https://observablehq.com/@teebusch/d3-for-the-impatient)
 
 Feel free to have a look around my GitHub repos to see other stuff I have tinkered with and projects I was involved with.
-
-### Contact
-
-* 📨 teebusch 🐒 the world's biggest .com email provider
-* 📷 [Instagram @tobilotti](https://www.instagram.com/tobilotti/)
-* 👔 [LinkedIn](linkedin.com/in/tobias-busch)
