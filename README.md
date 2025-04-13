@@ -10,9 +10,9 @@ I'm a cognitive scientist turned developer with a passion for UI/UX, research, d
 
 + My R packages [noah](https://teebusch.github.io/noah/) and [mifa](https://teebusch.github.io/mifa/) (I have also contributed a little bit to [textgRid](https://github.com/patrickreidy/textgRid) and [rlena](https://github.com/HomeBankCode/rlena))
 
-+ I have written a few things about R and data visualisation at [tobiasbusch.xyz](https://tobiasbusch.xyz)
++ I have [written a few things about R and data visualisation](https://tobiasbusch.netlify.app)
 
-+ [Here's a data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.xyz/a-walk-in-the-park).
++ [Here's a data visualisation I made with D3.js](https://teebusch.github.io/park-vis) and [a blog post about the process](https://tobiasbusch.netlify.app/a-walk-in-the-park).
 
 + [Some data visualisations I have made with Tableau](https://public.tableau.com/app/profile/tiobias.busch)
 
